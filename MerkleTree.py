@@ -1,5 +1,8 @@
 from hashlib import sha256
 
+"""
+Class merkle node.
+"""
 class MerkleNode:
     """
     Stores the hash and the parent
