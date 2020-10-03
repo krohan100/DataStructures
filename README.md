@@ -1,2 +1,2 @@
 # DataStructures
-Repo for data structures
+Repo for data structures coded in python.
